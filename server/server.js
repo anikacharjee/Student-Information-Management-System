@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 // Connect to MongoDB Atlas
-mongoose.connect('mongodb+srv://anikbmsit:anik1990@mystudcluster.hbjoaiv.mongodb.net/mystud', {
+mongoose.connect('mongodb+srv://anikbmsit:<password>@mystudcluster.hbjoaiv.mongodb.net/mystud', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
