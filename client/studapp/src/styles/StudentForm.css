@@ -1,0 +1,25 @@
+/* StudentForm.css */
+
+.student-form-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .form-table {
+    width: 100%;
+  }
+  
+  label {
+    font-weight: bold;
+    padding-right: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .form-buttons button {
+    margin-right: 10px;
+  }  
